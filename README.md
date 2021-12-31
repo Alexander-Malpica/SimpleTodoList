@@ -2,7 +2,7 @@
 
 **Simple Todo List** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Alexander X. Malpica**
+Submitted by: **Alexander X. Malpica Pérez**
 
 Time spent: **6** hours spent in total
 
@@ -18,25 +18,22 @@ The following **optional** features are implemented:
 
 * [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [OBS](https://obsproject.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+* It is a good entertainment start for people who have not used Android Studio.
+* It was a very detailed and step-by-step tutorial, but I still need to speed up a bit more when using some specific methods that were presented.
 
 ## License
 
-    Copyright [2021] [Alexander X. Malpica Pérez]
+    Copyright 2021 Alexander X. Malpica Pérez
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
